@@ -3,6 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jyeol0210)](https://solved.ac/jeol0210)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jyeol0210" height="165">
 
 ### Who Am I
 - 🌱 I'm currently learning javascript, react, Algorithm
