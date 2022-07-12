@@ -16,7 +16,7 @@
 ## What I like
 - 💪 Weight training
 - 🎵 Sing
-- ❤️Chicken
+- ❤️ Chicken
 
 ## Tech Stack
 <div>
