@@ -1,7 +1,7 @@
 # Hi~
-<div align="center">
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
-</div>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
+
 
 # Experience
 - ⚡ Jeju University, Philosophy(2020.03 ~ 2022.02)  [4.19 / 4.3]
