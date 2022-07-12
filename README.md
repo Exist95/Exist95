@@ -1,8 +1,8 @@
 # Noh Jong Yeol [![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FExist95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Exist95)
----
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <img src="https://github-readme-stats.vercel.app/api?username=Exist95" height="150">
+---
 ### Who Am I
 - 🌱 I'm currently learning javascript, react, Algorithm
 - 💬  I majored in Philosophy
