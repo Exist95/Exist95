@@ -1,9 +1,9 @@
 # Noh Jong Yeol [![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FExist95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Exist95)
 
-<div>
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=Exist95" witdh="250" heigth="250">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210" witdh="300" heigth="250">
-</div>
+</span>
 
 ## Who Am I
 - 🌱 I'm currently learning javascript, react, Algorithm
