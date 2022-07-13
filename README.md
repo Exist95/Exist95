@@ -1,8 +1,11 @@
 # Hi~
-<div align=left>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
-</div>
-<div aling=right>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
+
+
+# Tech Stack
+<div align=center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
