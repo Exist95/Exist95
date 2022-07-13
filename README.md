@@ -1,7 +1,8 @@
 # Hi~
+<div>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exist95&layout=compact&theme=dracula)](https://github.com/Exist95)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exist95&layout=compact&theme=dracula">
+</div>
 
 
 # Tech Stack
