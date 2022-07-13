@@ -1,7 +1,7 @@
 # Hi~
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyeol0210">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exist95&layout=compact&theme=dracula)](https://github.com/Exist95)
+
 
 
 # Tech Stack
