@@ -23,6 +23,7 @@
 - 💪 Weight training
 - 🎵 Sing
 - ❤️ Chicken
+- ❤️ Webtoon
 
 
 
