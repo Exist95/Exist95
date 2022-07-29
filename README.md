@@ -16,7 +16,7 @@
 
 
 # Experience
-- ⚡ [Anonymous] University, Philosophy (2020.03 ~ 2022.02)  [4.19 / 4.3]
+- ⚡ [National University], Philosophy (2020.03 ~ 2022.02)  [4.19 / 4.3]
 - 👯 CodeStates (2022.06 ~ ing)
 
 # What I like
